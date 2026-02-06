@@ -1,4 +1,4 @@
-📊 BlinkIT Grocery Data – Analytical Questions & Insights
+# BlinkIT Grocery Data – Analytical Questions & Insights
 1. Which Item Types generate the highest sales?
 Analysis
 
